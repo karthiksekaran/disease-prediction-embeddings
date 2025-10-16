@@ -4,6 +4,9 @@ A **Streamlit app** that predicts medical conditions based on drug names using *
 The app works **fully offline**, using precomputed embeddings.  
 It returns the **Top 5 most similar drugs** and their associated conditions for any query.
 
+<img width="1300" height="878" alt="Drug Condition Prediction Interface" src="https://github.com/user-attachments/assets/44874294-1542-470e-9a7e-3c9cedc33d8e" />
+
+
 ## Project Structure
 ## How to run locally
 
